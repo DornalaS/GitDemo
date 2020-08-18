@@ -10,6 +10,7 @@ public class APITest {
 	{
 		System.out.println("API log in sucesssfull");
 		System.out.println("My COde B is added");
+		System.out.println("branch 2 is added");
 	}
 
 	
@@ -19,6 +20,7 @@ public class APITest {
 	{
 		System.out.println("API error");
 		System.out.println("Code B added");
+		System.out.println("branch 2 is added");
 	}
 	
 	

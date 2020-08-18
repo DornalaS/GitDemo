@@ -10,6 +10,7 @@ public class mobileTest {
 	public void moblogin()
 	{
 		System.out.println("Mobile login sucessfull");
+		System.out.println("Mobile branch 2 sucessfull");
 
 	}
 	
