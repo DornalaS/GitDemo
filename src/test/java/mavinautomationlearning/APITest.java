@@ -18,6 +18,7 @@ public class APITest {
 	public void apierror()
 	{
 		System.out.println("API error");
+		System.out.println("Code B added");
 	}
 	
 	
@@ -25,5 +26,6 @@ public class APITest {
 	public void apiredemption()
 	{
 		System.out.println("API redemption sucessfull");
+		System.out.println("Code B added");
 	}
 }

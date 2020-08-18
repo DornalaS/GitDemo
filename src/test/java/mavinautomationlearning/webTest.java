@@ -18,6 +18,7 @@ public class webTest {
 	public void weberror()
 	{
 		System.out.println("Web error");
+		System.out.println("Code B added");
 	}
 	
 	

@@ -2,17 +2,16 @@ package mavinautomationlearning;
 
 import org.testng.annotations.Test;
 
-public class mobileTest {
+public class GithubDemo {
 	
-	
+
 	@Test
 	
 	public void moblogin()
 	{
 		System.out.println("Mobile login sucessfull");
-
 	}
-	
+
 	@Test
 	
 	public void moberror()
@@ -20,11 +19,12 @@ public class mobileTest {
 		System.out.println("Mobile error");
 	}
 	
+@Test
 	
-	@Test
-	public void mobredemption()
+	public void testcaseB()
 	{
-		System.out.println("Mobile redemption sucessfull");
-		System.out.println("Code B added");
+		System.out.println("Testcase added by B");
 	}
+	
+
 }
