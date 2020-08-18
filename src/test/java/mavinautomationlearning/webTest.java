@@ -10,6 +10,7 @@ public class webTest {
 	public void weblogin()
 	{
 		System.out.println("weblog in sucessfull");
+		System.out.println("Code B added");
 	}
 
 	@Test
