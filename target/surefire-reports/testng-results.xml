@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="105" started-at="2020-01-23T21:33:17 AEDT" finished-at="2020-01-23T21:33:17 AEDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="105" started-at="2020-01-23T21:33:17 AEDT" finished-at="2020-01-23T21:33:17 AEDT">
+      <class name="mavinautomationlearning.webTest">
+        <test-method status="PASS" signature="weberror()[pri:0, instance:mavinautomationlearning.webTest@3159c4b8]" name="weberror" duration-ms="17" started-at="2020-01-23T21:33:17 AEDT" finished-at="2020-01-23T21:33:17 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weberror -->
+        <test-method status="PASS" signature="weblogin()[pri:0, instance:mavinautomationlearning.webTest@3159c4b8]" name="weblogin" duration-ms="1" started-at="2020-01-23T21:33:17 AEDT" finished-at="2020-01-23T21:33:17 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weblogin -->
+        <test-method status="PASS" signature="webredemption()[pri:0, instance:mavinautomationlearning.webTest@3159c4b8]" name="webredemption" duration-ms="1" started-at="2020-01-23T21:33:17 AEDT" finished-at="2020-01-23T21:33:17 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webredemption -->
+      </class> <!-- mavinautomationlearning.webTest -->
+      <class name="mavinautomationlearning.APITest">
+        <test-method status="PASS" signature="apierror()[pri:0, instance:mavinautomationlearning.APITest@4bec1f0c]" name="apierror" duration-ms="1" started-at="2020-01-23T21:33:17 AEDT" finished-at="2020-01-23T21:33:17 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apierror -->
+        <test-method status="PASS" signature="apilogin()[pri:0, instance:mavinautomationlearning.APITest@4bec1f0c]" name="apilogin" duration-ms="1" started-at="2020-01-23T21:33:17 AEDT" finished-at="2020-01-23T21:33:17 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apilogin -->
+        <test-method status="PASS" signature="apiredemption()[pri:0, instance:mavinautomationlearning.APITest@4bec1f0c]" name="apiredemption" duration-ms="0" started-at="2020-01-23T21:33:17 AEDT" finished-at="2020-01-23T21:33:17 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiredemption -->
+      </class> <!-- mavinautomationlearning.APITest -->
+      <class name="mavinautomationlearning.mobileTest">
+        <test-method status="PASS" signature="moberror()[pri:0, instance:mavinautomationlearning.mobileTest@73846619]" name="moberror" duration-ms="1" started-at="2020-01-23T21:33:17 AEDT" finished-at="2020-01-23T21:33:17 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moberror -->
+        <test-method status="PASS" signature="moblogin()[pri:0, instance:mavinautomationlearning.mobileTest@73846619]" name="moblogin" duration-ms="0" started-at="2020-01-23T21:33:17 AEDT" finished-at="2020-01-23T21:33:17 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moblogin -->
+        <test-method status="PASS" signature="mobredemption()[pri:0, instance:mavinautomationlearning.mobileTest@73846619]" name="mobredemption" duration-ms="1" started-at="2020-01-23T21:33:17 AEDT" finished-at="2020-01-23T21:33:17 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobredemption -->
+      </class> <!-- mavinautomationlearning.mobileTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
